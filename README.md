@@ -18,7 +18,7 @@ setup:
 
 4. Run cp-speech-rocognition-data-prep.ipynb for creating dataset from audio files
 
-5. Finally the cp-speech-rocognition-model-training.ipynb contains model training code go ahead and try
-   different methos for better results or try mine one.
+5. Finally the cp-speech-rocognition-model-training.ipynb contains model training code. Go ahead and try
+   different methods for better results or try mine one.
    
    
