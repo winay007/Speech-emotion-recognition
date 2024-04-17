@@ -14,7 +14,7 @@ setup:
 
 2. download all 4 datasets provided above.
 
-3. intall required packages mentioned in requirements.txt
+3. install required packages mentioned in requirements.txt
 
 4. Run cp-speech-rocognition-data-prep.ipynb for creating dataset from audio files
 
