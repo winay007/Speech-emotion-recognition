@@ -1,0 +1,7 @@
+ALL/*
+AudioWAV/*
+speech-emotion-recognition-ravdess-data/*
+TESS Toronto emotional speech set data/*
+balanced_data.csv
+data_path.csv
+emotion.csv

@@ -1,0 +1,7 @@
+librosa==0.10.1
+pandas
+numpy
+tensorflow==2.15
+seaborn
+matplotlib
+keras.preprocessing
