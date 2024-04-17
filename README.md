@@ -16,9 +16,9 @@ setup:
 
 3. install required packages mentioned in requirements.txt.
 
-4. Run cp-speech-rocognition-data-prep.ipynb for creating dataset from audio files.
+4. Run cp-speech-recognition-data-prep.ipynb for creating dataset from audio files.
 
-5. Finally the cp-speech-rocognition-model-training.ipynb contains model training code. Go ahead and try
+5. Finally the cp-speech-recognition-model-training.ipynb contains model training code. Go ahead and try
    different methods for better results or try mine one.
    
    
