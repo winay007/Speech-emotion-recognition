@@ -10,13 +10,13 @@ crema: https://www.kaggle.com/datasets/ejlok1/cremad
 
 setup:
 
-1. git clone git@github.com:winay007/Speech-emotion-recognition.git
+1. git clone git@github.com:winay007/Speech-emotion-recognition.git.
 
 2. download all 4 datasets provided above.
 
-3. install required packages mentioned in requirements.txt
+3. install required packages mentioned in requirements.txt.
 
-4. Run cp-speech-rocognition-data-prep.ipynb for creating dataset from audio files
+4. Run cp-speech-rocognition-data-prep.ipynb for creating dataset from audio files.
 
 5. Finally the cp-speech-rocognition-model-training.ipynb contains model training code. Go ahead and try
    different methods for better results or try mine one.
